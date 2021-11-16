@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Patrick+Hand&family=Praise&family=Road+Rage&display=swap');
+
+body{ 
+    height: 100%;
+    margin:0; 
+    background-image: url(https://www.jornaldocomercio.com/_midias/jpg/2020/07/06/39345173312_a0399530d2_o-9090270.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+h1{
+   
+    color: rgb(19, 109, 71);
+   font-family: 'Indie Flower', cursive;
+    border-radius: 1px;
+    text-align: center;
+
+}
+
+h2{
+    color: rgb(209, 126, 65);
+    font-family: 'Praise', cursive;
+    border-radius: 1px;
+    text-align: center;
+    
+}
+
+h3 {
+    color: rgb(209, 126, 65);
+    font-family: 'Road Rage', cursive;
+    border-radius: 1px;
+    text-align: center;
+}
+
+h4 {
+    color: rgb(255, 255, 255);
+    font-family: 'Patrick Hand', cursive;
+    border-radius: 1px;
+    text-align: center;    
+}
+
+#instagram {
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    position:relative;
+    right: -580px;
+    padding: 10px;
+}
+
+#youtube {
+   height: 50px;
+   width: 50px;
+   text-align: center;
+   position:relative;
+   right: -580px;
+   padding: 10px;     
+}
